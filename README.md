@@ -11,7 +11,7 @@ requirements : termux
 
 
 >
-$ git clone https://github.com/RetroAk/Java
+$ git clone https://github.com/RetroAk/Java.git
 
 $ chmod +x javasetup.py
 
